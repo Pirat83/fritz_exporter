@@ -15,6 +15,20 @@
 
 * add AGENTS.md with project conventions and architecture guide ([#576](https://github.com/pdreker/fritz_exporter/issues/576)) ([53f3742](https://github.com/pdreker/fritz_exporter/commit/53f37424c42039d62b9e72dd3a3e10e9b82f1036))
 
+## [3.4.1](https://github.com/pdreker/fritz_exporter/compare/fritzexporter-v3.4.0...fritzexporter-v3.4.1) (2026-09-29)
+
+
+### Bug Fixes
+
+* **grafana:** use byte counters for transfer volume ([5e752f5](https://github.com/pdreker/fritz_exporter/commit/5e752f5ac75c75917ef79caec4ee0224882f5518))
+* **webui:** keep TR-064 port separate from UI ([4eba617](https://github.com/pdreker/fritz_exporter/commit/4eba617eb50c0859b5317abf24fc89670c831544))
+
+
+### Documentation
+
+* add contributing guide ([75fa095](https://github.com/pdreker/fritz_exporter/commit/75fa09534aaaf97f93d4e7de4ca7b662cb26a46d))
+* **grafana:** correct MER panel description ([053e95f](https://github.com/pdreker/fritz_exporter/commit/053e95fa20328839f366015ea058fc6be74c1a80))
+
 ## [3.4.0](https://github.com/pdreker/fritz_exporter/compare/fritzexporter-v3.3.2...fritzexporter-v3.4.0) (2026-09-22)
 
 
